@@ -1,7 +1,7 @@
 // Liste des sons à afficher
 const TRACKS = [
-  { file: "signal_bruit_2_carre.wav", title: "Reconstruction Sinusoïde + Bruit", desc: "signal_bruité 2" },
-  { file: "m5.wav", title: "Impact métallique M5", desc: "Son d'impact utilisé dans l'analyse ESPRIT + Gabor." },
+  { file: "signal_bruit_2_carre.wav", title: "Signal original", desc: "2 signaux carrés + bruit" },
+  { file: "signal_reconstruit 2 carrés  90Hz et 240Hz 5s_16000HZ_25jun.wav", title: "Reconstruction", desc: "Reconstruction par la méthode de Sirdey(Reconstruction Sinusoïde + Bruit)." },
   { file: "piano_ddsp.wav", title: "Exemple DDSP Piano", desc: "Extrait généré avec un modèle différentiable." }
 ];
 
