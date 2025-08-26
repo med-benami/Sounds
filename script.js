@@ -2,7 +2,7 @@
 const TRACKS = [
   { file: "signal_bruit_2_carre.wav", title: "Signal original", desc: "2 signaux carrés + bruit" },
   { file: "signal_reconstruit 2 carrés  90Hz et 240Hz 5s_16000HZ_25jun.wav", title: "Reconstruction", desc: "Reconstruction par la méthode de Sirdey(Reconstruction Sinusoïde + Bruit)." },
-  { file: "piano_ddsp.wav", title: "Exemple DDSP Piano", desc: "Extrait généré avec un modèle différentiable." }
+  { file: "signal_reconstruit_carré de fréquence 90Hz et 240Hz et de bruit_ESPRIT_16000HZ_25jun.wav", title: "Reconstruction", desc: "Reconstruction par la méthode EDS." }
 ];
 
 // Récupère le container
