@@ -1,7 +1,7 @@
 // Liste des sons à afficher
 const TRACKS = [
   { file: "m5.wav", title: "Impact métallique M5", desc: "Son d'impact utilisé dans l'analyse ESPRIT + Gabor." },
-  { file: "resynth_sinusoide.wav", title: "Reconstruction Sinusoïde + Bruit", desc: "Exemple issu du modèle Serra (1997)." },
+  { file: "signal_bruité 2 carrés.wav", title: "Reconstruction Sinusoïde + Bruit", desc: "Exemple issu du modèle Serra (1997)." },
   { file: "piano_ddsp.wav", title: "Exemple DDSP Piano", desc: "Extrait généré avec un modèle différentiable." }
 ];
 
