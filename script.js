@@ -17,7 +17,7 @@ TRACKS.forEach(track => {
     <h2>${track.title}</h2>
     <p>${track.desc}</p>
     <audio controls>
-      <source src="sounds/${track.file}" type="audio/wav">
+      <source src="${track.file}" type="audio/wav">
       Votre navigateur ne supporte pas la lecture audio.
     </audio>
   `;
