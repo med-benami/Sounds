@@ -7,6 +7,9 @@ const TRACKS = [
   
   { file: "signal_originale_200_550_1070_Hz_ESPRIT_16000HZ_26aug.wav", title: "Figure 16", desc: "Signal original : 3 sinusoids." },
   { file: "signal_reconstruit_200_550_1070_Hz_ESPRIT_16000HZ_26aug.wav", title: "Figure 16", desc: "Signal reconstruit : 3 sinusoids." },
+
+  { file: "kick 808 originale.wav", title: "Figure 17", desc: "Signal original : kick808." },
+  { file: "kick_808 1 seul mode _ESPRIT_44100HZ_11jul.wav", title: "Figure 17", desc: "Signal Reconstruit : kick808." },
   
   { file: "signal_bruit_2_carre.wav", title: "Figure 18", desc: "Signal original : 2 signaux carrés + bruit" },
   { file: "signal_reconstruit 2 carrés  90Hz et 240Hz 5s_16000HZ_25jun.wav", title: "Figure 18", desc: "Reconstruction : méthode de Sirdey(Reconstruction Sinusoïde + Bruit)." },
